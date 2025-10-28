@@ -1,0 +1,5 @@
+{
+  "name": "AI YouTube Downloader",
+  "description": "A concept app that allows you to 'download' YouTube videos. It uses AI to generate a title and summary for the video, and simulates the download process.",
+  "requestFramePermissions": []
+}
